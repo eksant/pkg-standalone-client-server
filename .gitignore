@@ -1,0 +1,28 @@
+*.csv
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strong-pm
+coverage
+
+# build
+loopback-pkg-ready-linux
+loopback-pkg-ready-macos
+loopback-pkg-ready-win.exe
+
+# dependencies
+node_modules
+package-lock.json
+yarn.lock
+npm-debug.log
